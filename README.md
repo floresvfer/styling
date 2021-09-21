@@ -1,2 +1,2 @@
 # styling
-[Magic Effects](https://www.minimamente.com/project/magic/]
+[Magic Effects](https://www.minimamente.com/project/magic/)
